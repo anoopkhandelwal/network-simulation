@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <bounds minlat='39.92841' minlon='-86.18922' maxlat='39.93083' maxlon='-86.18596' origin='CGImap 0.4.0 (18756 thorn-03.openstreetmap.org)' />
+  <node id='179722891' timestamp='2014-08-02T19:19:18Z' uid='360392' user='maxerickson' visible='true' version='3' changeset='24503605' lat='39.931472' lon='-86.18664'>
+    <tag k='highway' v='turning_circle' />
+  </node>
+  <node id='179722893' timestamp='2009-11-09T06:53:01Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.931441' lon='-86.186594' />
+  <node id='179722895' timestamp='2009-12-17T03:13:20Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3391154' lat='39.931411' lon='-86.186566' />
+  <node id='179722898' timestamp='2009-11-09T06:53:01Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.931378' lon='-86.186547' />
+  <node id='179722899' timestamp='2009-11-09T06:53:01Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.930688' lon='-86.186545' />
+  <node id='179722901' timestamp='2009-12-17T03:13:21Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3391154' lat='39.930613' lon='-86.186553' />
+  <node id='179722903' timestamp='2009-11-09T06:53:01Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.930532' lon='-86.18657' />
+  <node id='179722905' timestamp='2009-11-09T06:53:01Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.930454' lon='-86.186606' />
+  <node id='179722907' timestamp='2009-12-17T03:13:21Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3391154' lat='39.930375' lon='-86.186651' />
+  <node id='179722912' timestamp='2009-11-09T06:53:01Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.930324' lon='-86.186693' />
+  <node id='179722915' timestamp='2009-11-09T06:53:01Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.930263' lon='-86.186755' />
+  <node id='179722916' action='modify' timestamp='2009-12-17T03:13:21Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3391154' lat='39.93013' lon='-86.186923'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='179741594' timestamp='2009-11-09T06:56:50Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.932802' lon='-86.188571' />
+  <node id='179741597' timestamp='2009-12-17T03:15:24Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3391154' lat='39.932084' lon='-86.188556' />
+  <node id='179741600' timestamp='2009-11-09T06:56:50Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.931966' lon='-86.188549' />
+  <node id='179741603' timestamp='2009-11-09T06:56:50Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.931669' lon='-86.188495' />
+  <node id='179741606' timestamp='2009-12-17T03:15:24Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3391154' lat='39.931577' lon='-86.188466' />
+  <node id='179741608' timestamp='2009-11-09T06:56:50Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.931223' lon='-86.188336' />
+  <node id='179741610' timestamp='2009-11-09T06:56:51Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.930988' lon='-86.188239' />
+  <node id='179741613' action='modify' timestamp='2009-12-17T03:15:24Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3391154' lat='39.930388' lon='-86.188014'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='179803455' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.930247' lon='-86.187088' />
+  <node id='179803457' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.930305' lon='-86.187199' />
+  <node id='179803458' timestamp='2009-11-09T07:09:57Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.930358' lon='-86.187335' />
+  <node id='179803460' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.93039' lon='-86.187504' />
+  <node id='179803462' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.930407' lon='-86.187795' />
+  <node id='179803465' timestamp='2009-11-09T07:09:57Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.930327' lon='-86.18822' />
+  <node id='179803467' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.930255' lon='-86.188362' />
+  <node id='179803469' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.930136' lon='-86.188517' />
+  <node id='179803471' timestamp='2009-12-17T03:21:34Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3391154' lat='39.930023' lon='-86.18862' />
+  <node id='179803474' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.929953' lon='-86.188663' />
+  <node id='179803477' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.929853' lon='-86.188698' />
+  <node id='179803479' timestamp='2009-11-09T07:09:57Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.929752' lon='-86.188723' />
+  <node id='179803481' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.929545' lon='-86.188733' />
+  <node id='179803484' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.929403' lon='-86.188716' />
+  <node id='179803487' timestamp='2009-11-09T07:09:57Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.929289' lon='-86.188671' />
+  <node id='179803490' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.929194' lon='-86.188621' />
+  <node id='179803493' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.929097' lon='-86.188526' />
+  <node id='179803496' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.929009' lon='-86.188414' />
+  <node id='179803500' timestamp='2009-12-17T03:21:34Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3391154' lat='39.928944' lon='-86.188292' />
+  <node id='179803504' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.928881' lon='-86.188146' />
+  <node id='179803507' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.928828' lon='-86.187956' />
+  <node id='179803510' timestamp='2009-11-09T07:09:57Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.928814' lon='-86.18782' />
+  <node id='179803512' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.928812' lon='-86.187703' />
+  <node id='179803515' timestamp='2009-09-30T23:27:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.92882' lon='-86.187577' />
+  <node id='179803518' timestamp='2009-11-09T07:09:57Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.928856' lon='-86.187369' />
+  <node id='179803520' timestamp='2009-09-30T23:27:01Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.928927' lon='-86.187191' />
+  <node id='179803522' timestamp='2009-09-30T23:27:01Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.928979' lon='-86.187089' />
+  <node id='179803524' timestamp='2009-12-17T03:21:34Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3391154' lat='39.929046' lon='-86.186979' />
+  <node id='179803526' timestamp='2009-09-30T23:27:01Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.929118' lon='-86.1869' />
+  <node id='179803527' timestamp='2012-04-14T13:54:24Z' uid='308181' user='debutterfly' visible='true' version='3' changeset='11298917' lat='39.9292138' lon='-86.1868299' />
+  <node id='179803529' timestamp='2009-11-09T07:09:58Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.929307' lon='-86.18676' />
+  <node id='179803531' timestamp='2009-09-30T23:27:01Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.929405' lon='-86.186717' />
+  <node id='179803534' timestamp='2009-09-30T23:27:01Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.929506' lon='-86.186692' />
+  <node id='179803536' timestamp='2009-11-09T07:09:58Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.929621' lon='-86.186681' />
+  <node id='179803538' timestamp='2009-09-30T23:27:01Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.929756' lon='-86.186695' />
+  <node id='179803540' timestamp='2009-09-30T23:27:01Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.929875' lon='-86.186738' />
+  <node id='179803543' timestamp='2009-11-09T07:09:58Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3070959' lat='39.92999' lon='-86.1868' />
+  <node id='179803546' timestamp='2009-09-30T23:27:02Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2694393' lat='39.930086' lon='-86.186876' />
+  <node id='1716183237' timestamp='2012-04-14T13:53:23Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9271634' lon='-86.1843792' />
+  <node id='1716183282' timestamp='2012-04-14T13:53:24Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9271819' lon='-86.1844007' />
+  <node id='1716183322' timestamp='2012-04-14T13:53:26Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9277839' lon='-86.1854187' />
+  <node id='1716183331' timestamp='2012-04-14T13:53:26Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9272096' lon='-86.1844329' />
+  <node id='1716183457' timestamp='2012-04-14T13:53:31Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9279131' lon='-86.1855876' />
+  <node id='1716183469' timestamp='2012-04-14T13:53:31Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9271414' lon='-86.1843676' />
+  <node id='1716183497' timestamp='2012-04-14T13:53:32Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9275213' lon='-86.1850753' />
+  <node id='1716183605' timestamp='2012-04-14T13:53:35Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9290127' lon='-86.1870336' />
+  <node id='1716183612' action='modify' timestamp='2012-04-14T13:53:35Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9291045' lon='-86.1869148'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1716183656' timestamp='2012-04-14T13:53:37Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9275644' lon='-86.1849023' />
+  <node id='1716183711' timestamp='2012-04-14T13:53:38Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9286484' lon='-86.1865585' />
+  <node id='1716183728' timestamp='2012-04-14T13:53:38Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9270838' lon='-86.1844889' />
+  <node id='1716183748' timestamp='2014-06-13T22:42:14Z' uid='401490' user='svance92' visible='true' version='2' changeset='22917802' lat='39.9270945' lon='-86.1845093'>
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='minor' />
+    <tag k='traffic_sign' v='stop' />
+    <tag k='traffic_sign:forward' v='*' />
+  </node>
+  <node id='1716183761' timestamp='2012-04-14T13:53:39Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9279549' lon='-86.1854169' />
+  <node id='1716183782' timestamp='2012-04-14T13:53:40Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9288572' lon='-86.1866108' />
+  <node id='1716183800' timestamp='2012-04-14T13:53:40Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9270694' lon='-86.1844499' />
+  <node id='1716183859' timestamp='2012-04-14T13:53:41Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9289148' lon='-86.1869139' />
+  <node id='1716183895' timestamp='2012-04-14T13:53:42Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9271263' lon='-86.1845603' />
+  <node id='1716184008' timestamp='2012-04-14T13:53:46Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.928488' lon='-86.1861173' />
+  <node id='1716184020' timestamp='2012-04-14T13:53:46Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9282278' lon='-86.1860047' />
+  <node id='1716184032' timestamp='2012-04-14T13:53:47Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9271089' lon='-86.1845348' />
+  <node id='1716184097' timestamp='2012-04-14T13:53:48Z' uid='308181' user='debutterfly' visible='true' version='1' changeset='11298917' lat='39.9278669' lon='-86.185301' />
+  <node id='2915156652' timestamp='2014-06-13T22:41:47Z' uid='401490' user='svance92' visible='true' version='1' changeset='22917802' lat='39.9290421' lon='-86.1868466'>
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='minor' />
+    <tag k='traffic_sign' v='stop' />
+    <tag k='traffic_sign:forward' v='*' />
+  </node>
+  <node id='2915156678' timestamp='2014-06-13T22:41:48Z' uid='401490' user='svance92' visible='true' version='1' changeset='22917802' lat='39.9301838' lon='-86.1868505'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='minor' />
+    <tag k='traffic_sign' v='stop' />
+    <tag k='traffic_sign:forward' v='*' />
+  </node>
+  <node id='2915156691' timestamp='2014-06-13T22:41:48Z' uid='401490' user='svance92' visible='true' version='1' changeset='22917802' lat='39.9304482' lon='-86.1880342'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='minor' />
+    <tag k='traffic_sign' v='stop' />
+    <tag k='traffic_sign:forward' v='*' />
+  </node>
+  <node id='2915156832' timestamp='2014-06-13T22:41:49Z' uid='401490' user='svance92' visible='true' version='1' changeset='22917802' lat='39.9327254' lon='-86.1885671'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='minor' />
+    <tag k='traffic_sign' v='stop' />
+    <tag k='traffic_sign:backward' v='*' />
+  </node>
+  <way id='17355127' action='modify' timestamp='2014-06-13T22:42:02Z' uid='401490' user='svance92' visible='true' version='3' changeset='22917802'>
+    <nd ref='179722891' />
+    <nd ref='179722893' />
+    <nd ref='179722895' />
+    <nd ref='179722898' />
+    <nd ref='179722899' />
+    <nd ref='179722901' />
+    <nd ref='179722903' />
+    <nd ref='179722905' />
+    <nd ref='179722907' />
+    <nd ref='179722912' />
+    <nd ref='179722915' />
+    <nd ref='2915156678' />
+    <nd ref='179722916' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Brandon Court' />
+    <tag k='oneway' v='no' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Hamilton, IN' />
+    <tag k='tiger:name_base' v='Brandon' />
+    <tag k='tiger:name_type' v='Ct' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='46032' />
+    <tag k='tiger:zip_right' v='46032' />
+  </way>
+  <way id='17357053' timestamp='2014-06-13T22:42:05Z' uid='401490' user='svance92' visible='true' version='3' changeset='22917802'>
+    <nd ref='179741594' />
+    <nd ref='2915156832' />
+    <nd ref='179741597' />
+    <nd ref='179741600' />
+    <nd ref='179741603' />
+    <nd ref='179741606' />
+    <nd ref='179741608' />
+    <nd ref='179741610' />
+    <nd ref='2915156691' />
+    <nd ref='179741613' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Culpepper Drive' />
+    <tag k='oneway' v='no' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Hamilton, IN' />
+    <tag k='tiger:name_base' v='Culpepper' />
+    <tag k='tiger:name_type' v='Dr' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='46032' />
+    <tag k='tiger:zip_right' v='46032' />
+  </way>
+  <way id='17362933' action='modify' timestamp='2015-10-11T20:26:25Z' uid='3302687' user='martin19821212' visible='true' version='5' changeset='34577822'>
+    <nd ref='179722916' />
+    <nd ref='179803455' />
+    <nd ref='179803457' />
+    <nd ref='179803458' />
+    <nd ref='179803460' />
+    <nd ref='179803462' />
+    <nd ref='179741613' />
+    <nd ref='179803465' />
+    <nd ref='179803467' />
+    <nd ref='179803469' />
+    <nd ref='179803471' />
+    <nd ref='179803474' />
+    <nd ref='179803477' />
+    <nd ref='179803479' />
+    <nd ref='179803481' />
+    <nd ref='179803484' />
+    <nd ref='179803487' />
+    <nd ref='179803490' />
+    <nd ref='179803493' />
+    <nd ref='179803496' />
+    <nd ref='179803500' />
+    <nd ref='179803504' />
+    <nd ref='179803507' />
+    <nd ref='179803510' />
+    <nd ref='179803512' />
+    <nd ref='179803515' />
+    <nd ref='179803518' />
+    <nd ref='179803520' />
+    <nd ref='179803522' />
+    <nd ref='1716183605' />
+    <nd ref='179803524' />
+    <nd ref='1716183612' />
+    <nd ref='179803526' />
+    <nd ref='179803527' />
+    <nd ref='179803529' />
+    <nd ref='179803531' />
+    <nd ref='179803534' />
+    <nd ref='179803536' />
+    <nd ref='179803538' />
+    <nd ref='179803540' />
+    <nd ref='179803543' />
+    <nd ref='179803546' />
+    <nd ref='179722916' />
+    <tag k='highway' v='residential' />
+    <tag k='junction' v='roundabout' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Deerfield Circle' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Hamilton, IN' />
+    <tag k='tiger:name_base' v='Deerfield' />
+    <tag k='tiger:name_type' v='Cir' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='46032' />
+    <tag k='tiger:zip_right' v='46032' />
+  </way>
+  <way id='159509935' timestamp='2014-06-13T22:42:06Z' uid='401490' user='svance92' visible='true' version='3' changeset='22917802'>
+    <nd ref='1716183469' />
+    <nd ref='1716183237' />
+    <nd ref='1716183282' />
+    <nd ref='1716183331' />
+    <nd ref='1716183656' />
+    <nd ref='1716184097' />
+    <nd ref='1716183761' />
+    <nd ref='1716184008' />
+    <nd ref='1716183782' />
+    <nd ref='2915156652' />
+    <nd ref='1716183612' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Deerfield Mall' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Hamilton, IN' />
+    <tag k='tiger:name_base' v='Deerfield' />
+    <tag k='tiger:name_type' v='Mal' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='46032' />
+    <tag k='tiger:zip_right' v='46032' />
+  </way>
+  <way id='159509942' timestamp='2014-06-13T22:42:06Z' uid='401490' user='svance92' visible='true' version='3' changeset='22917802'>
+    <nd ref='1716183605' />
+    <nd ref='1716183859' />
+    <nd ref='1716183711' />
+    <nd ref='1716184020' />
+    <nd ref='1716183457' />
+    <nd ref='1716183322' />
+    <nd ref='1716183497' />
+    <nd ref='1716183895' />
+    <nd ref='1716184032' />
+    <nd ref='1716183748' />
+    <nd ref='1716183728' />
+    <nd ref='1716183800' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Deerfield Mall' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Hamilton, IN' />
+    <tag k='tiger:name_base' v='Deerfield' />
+    <tag k='tiger:name_type' v='Mal' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='46032' />
+    <tag k='tiger:zip_right' v='46032' />
+  </way>
+</osm>
